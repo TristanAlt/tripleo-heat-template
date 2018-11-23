@@ -1,2 +1,1 @@
-# tripleo-heat-template
-This is a test project
+stable/queens branch content.
